@@ -18,6 +18,7 @@ If postgressql is running, execute:
 
 - clone this repo
 - install dependencies
+- IN LIBRAI REPO WE WILL CREATE A .ENV FILE WITH DB CREDENTIALS
 - in the root folder run: `docker-compose up -d`
 - this will build the docker image and create our DB from the .yml file
 
